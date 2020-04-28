@@ -1,4 +1,4 @@
-Hello, this is my new "blog". I'll write in this blog whenever i do a project which i host in my github repositories. I'll write in English or Bahasa, depends on my mood or needs. I'll write each different entry on different markdown files and will indexed here.
+Hello, this is my new "blog". I'll write in this blog whenever i do a project which i host in my github repositories. The languages i'll be using are English or Bahasa, depends on my mood or needs. Each entries will be written as a different markdown file and will be indexed here.
 
 ## Index
 ### April 2020
