@@ -13,3 +13,5 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 
 **TNX es GUD DX**
 **de YD1SDL, 2020**
+
+![](./375px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
