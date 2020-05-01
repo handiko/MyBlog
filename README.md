@@ -4,5 +4,5 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 
 ## Index
 ### April 2020
-[Amplifier Relay Buffer](./2020-04-29/2020-04-29.md)
-[Desain 4 Element Fullsize Yagi 20M Band](./2020-05-01/2020-05-01.md)
+* [Amplifier Relay Buffer](./2020-04-29/2020-04-29.md)
+* [Desain 4 Element Fullsize Yagi 20M Band](./2020-05-01/2020-05-01.md)
