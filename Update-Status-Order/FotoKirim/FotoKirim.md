@@ -1,0 +1,93 @@
+Melalui halaman ini, saya secara berkala akan memberikan status update terkait pesanan atas produk-produk saya.
+
+**UPDATE 20 Mei 2020**
+
+## Kondisi terkait dampak Covid-19
+PSBB Bandung kembali diperpanjang hingga tanggal 29 Mei, yang mengakibatkan saya belum dapat melakukan re-stock komponen pada hari ini. Dengan demikian proses produksi akan dilanjutkan pada awal bulan Juni. Mohon maklum atas kondisi ini dan saya mengucapkan selamat menikmati hari libur lebaran 1441 H bagi yang merayakan dan tetap #StayAtHome. Empat dari lima pemesan pertama telah dikirimkan dan nomor resi akan saya kirimkan melalui pesan WA. Terima kasih !
+
+**Free ongkir untuk 5 pemesan pertama!!**
+
+[NCL-100 Instruksi Manual (rev1) - ID](./NCL-100_Manual_rev1_ID.pdf)
+
+**Ordering info:** via YE1AR
+
+# NCL-100 - RF Noise Canceller - Order Update
+
+|Nomor Antrian|Pemesan|Antri|Dikerjakan|Selesai|Dikirim|
+|:-----------:|:-----:|:---:|:--------:|:-----:|:-----:|
+|1            |YB6HAI |      |          |       |   V   |
+|2            |YB9UA  |      |          |       |   V   |
+|3            |YB9JAU |      |          |   V*  |       |
+|4            |YC9FZ  |      |          |       |   V   |
+|5            |YB1KS  |      |          |       |   V   |
+|6            |YC0BAS |      |    V     |       |       |
+|7            |YC1GHZ |      |    V     |       |       |
+|8            |YB0NSI |      |    V     |       |       |
+|9            |Mail Bekasi |     |  V       |       |       |
+|10           |YC2FLA |     |   V      |       |       |
+|11           |YD9VE  |     |   V      |       |       |
+|12           |YD1RIK |     |   V      |       |       |
+|13           |YE1BNI |  V  |          |       |       |
+|14           |YC9AM  |  V  |          |       |       |
+|15           |YC2ILU |  V  |          |       |       |
+|16           |YB3HQM |  V  |          |       |       |
+|17           |YE4IJ  |  V  |          |       |       |
+|18           |YB1MIG |  V  |          |       |       |
+|19           |YF3EKS |  V  |          |       |       |
+|20           |YD1RQX |  V  |          |       |       |
+|21           |9W2FSY |  V  |          |       |       |
+|22           |YC7TUU |  V  |          |       |       |
+|23           |YD1DWD |  V  |          |       |       |
+|24           |YB2TS  |  V  |          |       |       |
+|25           |YB7WW  |  V  |          |       |       |
+|26           |YC0NHO |  V  |          |       |       |
+|27           |YF5RFU |  V  |          |       |       |
+|28           |YC0XTU |  V  |          |       |       |
+|29           |YB7XMR |  V  |          |       |       |
+|30           |YD0UBW |  V  |          |       |       |
+|31           |YB0ET  |  V  |          |       |       |
+|32           |YB0NDN |  V  |          |       |       |
+|33           |YB0JVZ |  V  |          |       |       |
+|34           |YB3LZ  |  V  |          |       |       |
+|35           |YB2HKB |  V  |          |       |       |
+|36           |YC1BIQ |  V  |          |       |       |
+
+[Test oleh YE1AR](https://www.youtube.com/watch?v=0mTeQIkwuYI)
+
+****
+
+# NCL-100 - (Special Order)
+
+|Nomor Antrian|Pemesan|Antri|Dikerjakan|Selesai|Dikirim|
+|:-----------:|:-----:|:---:|:--------:|:-----:|:-----:|
+|1            |Daeng Sydney - Aussie   |     |         |       |   V   |
+|2            |YC1ACC |     |    V     |       |       |
+|3            |2XVT   |     |    V     |       |       |
+|4            |YB2DX  |     |    V     |       |       |
+|5            |JJ1RJR |  V  |          |       |       |
+|6            |Wahid Bandung  |  V  |          |       |       |
+|7            |Zainuddin Bogor  |  V  |          |       |       |
+
+****
+
+# Product-X - (Pre-release Order/Tester)
+
+|Nomor Antrian|Pemesan|Antri|Dikerjakan|Selesai|Dikirim|
+|:-----------:|:-----:|:---:|:--------:|:-----:|:-----:|
+|1            |Mr.X - Call Area 1   |     |    V     |       |       |
+|2            |Mr.X - Call Area 1   |     |    V     |       |       |
+|3            |Mr.X - Call Area 2   |     |    V     |       |       |
+|4            |Mr.X - Call Area 2   |     |    V     |       |       |
+
+
+**TNX es GUD DX**
+**de YD1SDL, 2020**
+
+#StayAtHome #MainRadiodiRumahAja
+
+<br><br>
+****
+<p align="center">
+  <a href="https://handiko.github.io/MyBlog/"> <b>Back to Home</b> </a>
+  <br>
+</p>
