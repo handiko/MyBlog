@@ -12,6 +12,7 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 * [Rotary WARC Band Dipole Antenna](./2020-05-02/2020-05-02.md)
 * [3 Elements Fullsize Yagi Antenna for 40m Band](./2020-05-02-2/2020-05-02-2.md)
 * [NCL-100 - Update Status Order](./Update-Status-Order/2020-05-02.md)
+* [Cara Melakukan Contest Planning menggunakan VOACAP Planner](./2020-05-24/2020-05-24.md)
 
 **TNX es GUD DX**
 **de YD1SDL, 2020**
