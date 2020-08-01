@@ -15,6 +15,9 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 * [Cara Melakukan Contest Planning menggunakan VOACAP Planner](./2020-05-24/2020-05-24.md)
 * [YD1SDL Berlatih Morse dengan Morse Runner](./2020-05-26/2020-05-26.md)
 
+### August 2020
+* [Memperkenalkan NCL-100+](./2020-08-01/2020-08-01.md)
+
 **TNX es GUD DX**
 **de YD1SDL, 2020**
 
