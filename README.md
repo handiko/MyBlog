@@ -17,7 +17,7 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 
 ### August 2020
 * [Memperkenalkan NCL-100+](./2020-08-01/2020-08-01.md)
-* [Cara Pengaturan NCL-100 / NCL-100+](./2020-08-02/2020-08-02.md)
+* [**Cara Pengaturan NCL-100 / NCL-100+** << go check it!](./2020-08-02/2020-08-02.md)
 
 **TNX es GUD DX**
 **de YD1SDL, 2020**
