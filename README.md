@@ -19,6 +19,7 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 * [Memperkenalkan NCL-100+](./2020-08-01/2020-08-01.md)
 * [**Cara Pengaturan NCL-100 / NCL-100+** << go check it!](./2020-08-02/2020-08-02.md)
 * [ER4A Dimonitor Menggunakan **INDOOR** Random Wire Antenna dan Noise Canceller NCL-100+](./2020-08-09/2020-08-09.md)
+* [Receiving FT8 Transmission Worldwide Using Indoor Antenna and NCL-100+](./2020-08-16/2020-08-16.md)
 * [**NCL-100+ English Quick User Guide**](./2020-08-17/2020-08-17.md)
 
 **TNX es GUD DX**
