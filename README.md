@@ -2,6 +2,9 @@ Hello, this is my new "blog". I'll write in this blog whenever i do a project wh
 
 Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because i am "lazy", i stop writting there and start to writes here. It is easier for me to make a repository and blogging about my projects in one place.
 
+# Pinned Entry
+* [**NCL-100+ English Quick User Guide**](./2020-08-17/2020-08-17.md)
+
 # Index
 ### April 2020
 * [RB-1A/L - Amplifier Relay Buffer](./2020-04-29/2020-04-29.md)
