@@ -7,22 +7,22 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 
 # Index
 ### April 2020
-* [RB-1A/L - Amplifier Relay Buffer](./2020-04-29/2020-04-29.md)
-* [NCL-100 - RF Noise Canceller (Teaser)](./2020-04-30/2020-04-30.md)
+* [**RB-1A/L - Amplifier Relay Buffer**](./2020-04-29/2020-04-29.md)
+* [**NCL-100 - RF Noise Canceller (Teaser)**](./2020-04-30/2020-04-30.md)
 
 ### May 2020
-* [Desain 4 Element Fullsize Yagi 20M Band](./2020-05-01/2020-05-01.md)
-* [Rotary WARC Band Dipole Antenna](./2020-05-02/2020-05-02.md)
-* [3 Elements Fullsize Yagi Antenna for 40m Band](./2020-05-02-2/2020-05-02-2.md)
+* [**Desain 4 Element Fullsize Yagi 20M Band**](./2020-05-01/2020-05-01.md)
+* [**Rotary WARC Band Dipole Antenna**](./2020-05-02/2020-05-02.md)
+* [**3 Elements Fullsize Yagi Antenna for 40m Band**](./2020-05-02-2/2020-05-02-2.md)
 * [**NCL-100 - Update Status Order** << check for update!](./Update-Status-Order/2020-05-02.md)
-* [Cara Melakukan Contest Planning menggunakan VOACAP Planner](./2020-05-24/2020-05-24.md)
-* [YD1SDL Berlatih Morse dengan Morse Runner](./2020-05-26/2020-05-26.md)
+* [**Cara Melakukan Contest Planning menggunakan VOACAP Planner**](./2020-05-24/2020-05-24.md)
+* [**YD1SDL Berlatih Morse dengan Morse Runner**](./2020-05-26/2020-05-26.md)
 
 ### August 2020
-* [Memperkenalkan NCL-100+](./2020-08-01/2020-08-01.md)
+* [**Memperkenalkan NCL-100+**](./2020-08-01/2020-08-01.md)
 * [**Cara Pengaturan NCL-100 / NCL-100+** << go check it!](./2020-08-02/2020-08-02.md)
-* [ER4A Dimonitor Menggunakan **INDOOR** Random Wire Antenna dan Noise Canceller NCL-100+](./2020-08-09/2020-08-09.md)
-* [Receiving FT8 Transmission Worldwide Using Indoor Antenna and NCL-100+](./2020-08-16/2020-08-16.md)
+* [**ER4A Dimonitor Menggunakan INDOOR Random Wire Antenna dan Noise Canceller NCL-100+**](./2020-08-09/2020-08-09.md)
+* [**Receiving FT8 Transmission Worldwide Using Indoor Antenna and NCL-100+**](./2020-08-16/2020-08-16.md)
 * [**NCL-100+ English Quick User Guide**](./2020-08-17/2020-08-17.md)
 
 **TNX es GUD DX**
