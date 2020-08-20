@@ -24,6 +24,7 @@ Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because
 * [**ER4A Dimonitor Menggunakan INDOOR Random Wire Antenna dan Noise Canceller NCL-100+**](./2020-08-09/2020-08-09.md)
 * [**Receiving FT8 Transmission Worldwide Using Indoor Antenna and NCL-100+**](./2020-08-16/2020-08-16.md)
 * [**NCL-100+ English Quick User Guide**](./2020-08-17/2020-08-17.md)
+* [**About NCL-100+ Noise Canceller Production Process / Mengenai Proses Produksi Noise Canceller NCL-100+**](./2020-08-21/2020-08-21.md)
 
 **TNX es GUD DX**
 **de YD1SDL, 2020**
