@@ -2,8 +2,9 @@ Hello, this is my new "blog". I'll write in this blog whenever i do a project wh
 
 Actually i have another blog ([here](https://labsdl.wordpress.com/)) but because i am "lazy", i stop writting there and start to writes here. It is easier for me to make a repository and blogging about my projects in one place.
 
-# Pinned Entry
+# Pinned Entries
 * [**NCL-100+ English Quick User Guide**](./2020-08-17/2020-08-17.md)
+* [**About NCL-100+ Noise Canceller Production Process / Mengenai Proses Produksi Noise Canceller NCL-100+**](./2020-08-21/2020-08-21.md)
 
 # Index
 ### April 2020
